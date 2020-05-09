@@ -1,0 +1,197 @@
+                                                            .body {
+                                                                color: teal;
+                                                                background-color: tomato;
+                                                            }
+                                                            
+                                                            .logotype1 {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .logo-studio1 {
+                                                                color: black
+                                                            }
+                                                            
+                                                            .studio {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .studio:hover,
+                                                            .studio:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .portfolio {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .portfolio:hover,
+                                                            .portfolio:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .contacts {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .contacts:hover,
+                                                            .contacts:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .mail {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .mail:hover,
+                                                            .mail:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .number {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .number:hover,
+                                                            .number:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .decision {
+                                                                background-color: violet;
+                                                            }
+                                                            
+                                                            .decision-title {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .to-order {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .to-order:hover,
+                                                            .to-order:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .doing {
+                                                                background-color: tomato;
+                                                            }
+                                                            
+                                                            .doing-title {
+                                                                color: black;
+                                                            }
+                                                            
+                                                            .doing-desctop {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .doing-desctop:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .doing-mobile {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .doing-mobile:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .doing-display {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .doing-display:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .john-link {
+                                                                color: #AFB1B8;
+                                                            }
+                                                            
+                                                            .john-link:hover,
+                                                            .john-link:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .marta-link {
+                                                                color: #AFB1B8;
+                                                            }
+                                                            
+                                                            .marta-link:hover,
+                                                            .marta-link:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .robert-link {
+                                                                color: #AFB1B8;
+                                                            }
+                                                            
+                                                            .robert-link:hover,
+                                                            .robert-link:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .martin-link {
+                                                                color: #AFB1B8;
+                                                            }
+                                                            
+                                                            .martin-link:hover,
+                                                            .martin-link:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .logo {
+                                                                color: #AFB1B8;
+                                                            }
+                                                            
+                                                            .logo:hover,
+                                                            .logo:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .logotype2 {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .logo-studio2 {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .body {
+                                                                color: green;
+                                                            }
+                                                            
+                                                            .foot {
+                                                                background-color: purple;
+                                                            }
+                                                            
+                                                            .foot-join {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .foot-adress {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .foot-link {
+                                                                color: #AFB1B8;
+                                                            }
+                                                            
+                                                            .foot-link:hover,
+                                                            .foot-link:focus {
+                                                                color: #2196F3;
+                                                            }
+                                                            
+                                                            .foot-mail {
+                                                                color: rgba(255, 255, 255, 0.6);
+                                                                ;
+                                                            }
+                                                            
+                                                            .foot-phone {
+                                                                color: rgba(255, 255, 255, 0.6);
+                                                            }
+                                                            
+                                                            .foot-end {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                            }
