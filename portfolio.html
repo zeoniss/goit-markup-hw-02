@@ -5,7 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
+
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/common.css">
+    <link rel="stylesheet" href="./css/footer.css">
 
     <body class="body">
 
@@ -13,37 +16,39 @@
         <header>
             <nav>
 
-                <a href=""><span class="logotype1">Web</span><span class="logo-studio1">Studio</span></a>
+                <a href=""><span class="web">Web</span><span class="stud">Studio</span></a>
                 <ul class="nav-header">
-                    <li><a href="" class="studio">Студия</a></li>
+                    <li><a href="index.html" class="studio">Студия</a></li>
                     <li>
-                        <a href="" class="portfolio">Портфолио</a></li>
+                        <a href="" class="portfolio-current">Портфолио</a></li>
 
                     <li><a href="" class="contacts">Контакты</a></li>
                 </ul>
-                <ul class="mail">
+                <ul>
                     <li>
                         <img src="./images/mail.svg" alt="почта" />
-                        <a href="mailto:info@devstudio.com">info@devstudio.com</a>
+                        <a href="mailto:info@devstudio.com" class="mail">info@devstudio.com</a>
 
                     </li>
-                </ul>
-                <ul class="number">
+
+
                     <li>
                         <img src="./images/phone.svg" alt="телефон" />
-                        <a href="tel:+380961111111">+38 096 111 11 11</a>
+                        <a href="tel:+380961111111" class="number">+38 096 111 11 11</a>
                     </li>
                 </ul>
             </nav>
         </header>
         <main>
-            <section>
+            <section class="font">
                 <ul>
-                    <li><a href="" aria-label="Ссылка на Все">Все</a></li>
-                    <li><a href="" aria-label="Ссылка на Веб-сайты">Веб-сайты</a></li>
-                    <li><a href="" aria-label="Ссылка на Приложения">Приложения</a></li>
-                    <li><a href="" aria-label="Ссылка на Дизайн">Дизайн</a></li>
-                    <li><a href="" aria-label="Ссылка на Маркетинг">Маркетинг</a></li>
+                    <li>
+                        <button class="button-list">Все</button>
+                    </li>
+                    <li><button class="button-list">Веб-сайты</a></li>
+                    <li><button class="button-list">Приложения</a></li>
+                    <li><button class="button-list">Дизайн</a></li>
+                    <li><button class="button-list">Маркетинг</a></li>
                 </ul>
                 <ul>
                     <li>
@@ -111,7 +116,7 @@
             </section>
         </main>
         <footer class="foot">
-            <a href=""><span class="logotype2">Web</span><span class="logo-studio2">Studio</span></a> <address>
+            <a href=""><span class="foot-logo">Web</span><span class="studio-logo">Studio</span></a> <address>
                 <span class="foot-adress">г. Киев, 
                 Бульвар Леси Украинки, д. 26, 
                 4й этаж офис 427</span>
@@ -126,6 +131,7 @@
                 <li><a href=" " aria-label="ссылка на ЛинкедИн " class="foot-link">LinkedIn</a></li>
 
             </ul>
+            <a href="" class="button-follower">Подписаться</a>
             <p class="foot-end">2020 | Developed by GoIT Students </p>
 
 

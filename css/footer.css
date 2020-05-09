@@ -1,0 +1,35 @@
+/*Подвал*/
+
+.studio-logo {
+    color: white;
+}
+
+.foot-join {
+    color: white;
+}
+
+.foot-adress {
+    color: white;
+}
+
+.foot-link {
+    color: #AFB1B8;
+}
+
+.foot-link:hover,
+.foot-link:focus {
+    color: var(--accent-color);
+}
+
+.foot-mail {
+    color: rgba(255, 255, 255, 0.6);
+    ;
+}
+
+.foot-phone {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.foot-end {
+    color: rgba(255, 255, 255, 0.4);
+}

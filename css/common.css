@@ -1,0 +1,33 @@
+ul {
+    list-style: none;
+}
+
+.section {
+    background-color: coral;
+}
+
+:root {
+    --primary-color: #757575;
+    --tital-color: black;
+    --accent-color: #2196F3;
+}
+
+.decision {
+    background-color: rgba(47, 48, 58, 0.8);
+}
+
+.doing {
+    background-color: #E5E5E5;
+}
+
+.nav-comand {
+    background-color: #F5F4FA;
+}
+
+.foot-logo {
+    color: var(--accent-color);
+}
+
+.foot {
+    background-color: #2F303A;
+}
