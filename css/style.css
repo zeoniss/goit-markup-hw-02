@@ -1,20 +1,30 @@
-.section-title {
+/*Логотип*/
+
+.nav-web {
+    color: var(--accent-color);
+    font-family: Raleway, cursive;
+    font-size: 26px;
+    line-height: 31px;
+}
+
+.nav-studio {
     color: var(--tital-color);
+    font-family: Raleway, cursive;
+    font-size: 26px;
+    line-height: 31px;
 }
 
 
-/*site head*/
+/*features*/
 
-.web {
-    color: var(--accent-color)
-}
-
-.stud-logo {
-    color: var(--tital-color)
+.features {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
 }
 
 .studio {
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 .studio-current {
@@ -69,98 +79,112 @@
 
 /*чем мы занимаемся*/
 
-. .decision-title {
+.section-list {
     color: white;
+    font-style: 400;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.14;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 
-.doing-desctop {
-    color: white;
-}
-
-.doing-desctop:focus {
-    color: var(--accent-color);
-}
-
-.doing-mobile {
-    color: white;
-}
-
-.doing-mobile:focus {
-    color: var(--accent-color);
-}
-
-.doing-display {
-    color: white;
-}
-
-.doing-display:focus {
-    color: var(--accent-color);
-}
-
-
+.section-list:focus
 /*Наша команда*/
 
-
-}
 .john-link {
-    color: #AFB1B8;
+    color: #afb1b8;
 }
+
 .john-link:hover,
 .john-link:focus {
     color: var(--accent-color);
 }
+
 .marta-link {
-    color: #AFB1B8;
+    color: #afb1b8;
 }
+
 .marta-link:hover,
 .marta-link:focus {
     color: var(--accent-color);
 }
+
 .robert-link {
-    color: #AFB1B8;
+    color: #afb1b8;
 }
+
 .robert-link:hover,
 .robert-link:focus {
     color: var(--accent-color);
 }
+
 .martin-link {
-    color: #AFB1B8;
+    color: #afb1b8;
 }
+
 .martin-link:hover,
 .martin-link:focus {
     color: var(--accent-color);
 }
 
+
 /*Постоянные клиенты*/
+
 .logo {
-    color: #AFB1B8;
+    color: #afb1b8;
 }
+
 .logo:hover,
 .logo:focus {
     color: var(--accent-color);
 }
-.logo-foot {
-    color: var(--accent-color);
-}
-.logo-studio {
-    color: white;
-}
+
 
 /*кнопка*/
+
 .button-order {
     color: white;
     background-color: var(--accent-color);
 }
+
 .button-follower {
     color: white;
     background-color: var(--accent-color);
 }
-.font {
-    background-color: darkslategray;
-}
+
 .button-list {
-    color: black;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
 }
+
 .button-list:hover {
-    color: var(--accent-color)
+    color: var(--accent-color);
+}
+
+.button-list:focus {
+    color: purple;
+}
+
+
+/*Наши проекты*/
+
+.text-button {
+    color: var(--primary-color);
+}
+
+.text-title {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2;
+    color: var(--text-title);
+}
+
+.text-description {
+    color: #ffffff;
 }

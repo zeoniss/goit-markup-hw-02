@@ -1,27 +1,50 @@
-ul {
-    list-style: none;
+body {
+    background-color: purple;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.03em;
 }
 
 .section {
-    background-color: coral;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
 }
 
 :root {
     --primary-color: #757575;
     --tital-color: black;
-    --accent-color: #2196F3;
+    --accent-color: #2196f3;
+    --text-title: #212121;
 }
 
-.decision {
-    background-color: rgba(47, 48, 58, 0.8);
+.section-title {
+    color: var(--tital-color);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 
-.doing {
-    background-color: #E5E5E5;
+.section-list {
+    color: #212121;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
 }
 
-.nav-comand {
-    background-color: #F5F4FA;
+.section-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7px;
 }
 
 .foot-logo {
@@ -29,5 +52,9 @@ ul {
 }
 
 .foot {
-    background-color: #2F303A;
+    background-color: #2f303a;
+}
+
+.font {
+    background-color: wheat;
 }
