@@ -18,6 +18,7 @@
 /*features*/
 
 .features {
+    text-decoration: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -58,22 +59,20 @@
     color: var(--accent-color);
 }
 
-.mail {
+
+/*Контакты*/
+
+.contact a {
+    text-decoration: none;
     color: var(--primary-color);
 }
 
-.mail:hover,
-.mail:focus {
+.contact a:hover {
     color: var(--accent-color);
 }
 
-.number {
-    color: var(--primary-color);
-}
-
-.number:hover,
-.number:focus {
-    color: var(--accent-color);
+.contact a:focus {
+    color: orange;
 }
 
 
@@ -92,51 +91,29 @@
 .section-list:focus
 /*Наша команда*/
 
-.john-link {
+.link a {
+    text-decoration: none;
     color: #afb1b8;
 }
 
-.john-link:hover,
-.john-link:focus {
+.link a:hover {
     color: var(--accent-color);
 }
 
-.marta-link {
-    color: #afb1b8;
-}
-
-.marta-link:hover,
-.marta-link:focus {
-    color: var(--accent-color);
-}
-
-.robert-link {
-    color: #afb1b8;
-}
-
-.robert-link:hover,
-.robert-link:focus {
-    color: var(--accent-color);
-}
-
-.martin-link {
-    color: #afb1b8;
-}
-
-.martin-link:hover,
-.martin-link:focus {
-    color: var(--accent-color);
+.link a:focus {
+    color: greenyellow;
 }
 
 
 /*Постоянные клиенты*/
 
-.logo {
+.logo a {
+    text-decoration: none;
     color: #afb1b8;
 }
 
-.logo:hover,
-.logo:focus {
+.logo a:hover,
+.logo a:focus {
     color: var(--accent-color);
 }
 

@@ -26,12 +26,12 @@
     color: white;
 }
 
-.foot-link {
+.foot-link a {
     color: #afb1b8;
 }
 
-.foot-link:hover,
-.foot-link:focus {
+.foot-link a:hover,
+.foot-link a:focus {
     color: var(--accent-color);
 }
 
