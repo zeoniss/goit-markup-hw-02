@@ -356,8 +356,7 @@ ul {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
-    /* or 171% */
+    line-height: 1.7x;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
